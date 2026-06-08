@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Anvita! 👋
 
-<!--
-**anvitahadkar06-beep/anvitahadkar06-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9407e295-474c-4574-a00d-1a33752c9258" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+
+I'm a **Student** and a passionate **Aspiring Cybersecurity Analyst** currently building a strong foundational tech stack. I am focusing on building my core computer science foundations and learning programming step-by-step. My ultimate goal is to break into the world of **Cybersecurity**! I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **Coding and Security Fundamentals, Networking Basics**
+- 🔭 Working on: **AI-Based Phishing Detection Framework**
+- 🌍 Languages: **Python,C,HTML,CSS,MySQL,(Hindi,Marathi,English)**
+- 📫 How to reach me: **https://www.linkedin.com/in/anvita-hadkar-969939389/**
+- ⚡ Fun fact: **To catch a hacker, you have to think like one.**
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+## Get in Touch 📬
+
+- **https://www.linkedin.com/in/anvita-hadkar-969939389/**
+
+
+
