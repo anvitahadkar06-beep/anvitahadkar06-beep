@@ -1,6 +1,6 @@
 # Hi there, I'm Anvita! 👋
 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9407e295-474c-4574-a00d-1a33752c9258" />
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/802b3c60-50a0-47b5-b090-e3ca92a22347" />
 
 
 ## About Me 🚀
